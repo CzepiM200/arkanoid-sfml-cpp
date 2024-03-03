@@ -1,6 +1,9 @@
 # Arkanoid Game with SFML and C++
 The aim of this project was to pass classes on mastering the basics of object-oriented programming
 
+## How to play?
+Clone repository on to your Windows machine and run Arkanoid.exe file
+
 ### Game with Fast Racket
 ![image](https://github.com/CzepiM200/arkanoid-sfml-cpp/assets/16826668/bec7a3d5-7dc1-4af1-a756-8e910aa7fa4c)
 
