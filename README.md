@@ -1,6 +1,4 @@
-# Arkanoid-Cpp
-Simple game written in C++
-
+# Arkanoid Game with SFML and C++
 The aim of this project was to pass classes on mastering the basics of object-oriented programming
 
 ### Game with Fast Racket
